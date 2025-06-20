@@ -49,7 +49,7 @@ const About = () => {
                   I'm Vignesh, a Software Engineer with 3 years of experience in
                   full-stack web development. I specialize in React.js,
                   JavaScript, HTML, and CSS, with backend expertise in Node.js
-                  and MongoDB.
+                  and MongoDB(Basics).
                 </p>
                 <br />
 

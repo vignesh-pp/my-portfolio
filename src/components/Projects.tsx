@@ -17,9 +17,9 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       role: "Full-Stack Developer",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      liveUrl: "#",
-      githubUrl: "#",
+      technologies: ["React","Tailwind CSS"],
+      liveUrl: "https://e-plantopia.netlify.app/",
+      githubUrl: "https://github.com/vignesh-pp/plantopia",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       role: "Frontend Developer",
-      technologies: ["React", "TypeScript", "Firebase", "Tailwind CSS"],
+      technologies: ["React", "Node.js", "Firebase", "Tailwind CSS"],
       liveUrl: "https://dobuddy.netlify.app/",
       githubUrl: "https://github.com/vignesh-pp/TodoApp_REACT",
     },

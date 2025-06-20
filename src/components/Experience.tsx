@@ -17,7 +17,7 @@ const Experience = () => {
       location: "Remote",
       description:
         "I developed and enhanced a system for managing daily status reports, including features for tracking work updates, leave management, and storing employee details. I implemented modules for daily submissions, admin views, and report generation. Focused on creating a responsive UI and ensuring data accuracy with integrated validations. This streamlined employee reporting and improved overall system efficiency.",
-      technologies: ["React", "Node.js", "Express.js", "JavaScript", "MySQL"],
+      technologies: ["React", "Node.js", "Express.js", "MySQL"],
       type: "full-time",
     },
     {
@@ -29,9 +29,10 @@ const Experience = () => {
       description:
         "At Kaitongo, I enhanced advanced search functionality, implemented role-based interfaces, and optimized the mobile experience. I improved newsletter rendering using Jinja, added custom templates, and advanced report filtering and scheduling. I worked on optimizing API performance, implementing prompt updates, and enhancing news accuracy through AI retries. I also contributed to performance tuning in Weaviate and OpenSearch and collaborated with cross-functional teams to refine UI, newsletters, and system tracking features.",
       technologies: [
+        "Figma",
+        "Visily",
         "React",
         "GrapesJS",
-        "JavaScript",
         "Weaviate",
         "OpenSearch",
         "Jinja Templates",
@@ -51,6 +52,7 @@ const Experience = () => {
         "At ClearVault, I improved UI consistency for file uploads across various modules, including CR requests, chat, and projects. Redesigned modals and layouts to streamline the user experience. Additionally, I maintained the notification system and collaborated on API integration and system responsiveness improvements, ensuring a smooth flow of the entire construction site building process.",
       technologies: [
         "React",
+        "Visily",
         "CSS3",
         "UI/UX Design",
         "JavaScript",
@@ -68,7 +70,7 @@ const Experience = () => {
         "I developed and refined resume templates while enhancing preview page layout and wireframe consistency. I improved template selection flows, admin-level controls, and implemented responsive UI updates. My work included testing modules for performance and integrating AI-based document upload and content rephrasing. I also implemented smart summary generation and automated skill suggestions using AI.",
       technologies: [
         "React",
-        "Figma",
+        "Visily",
         "JavaScript",
         "Responsive Design",
         "AI Integration",
@@ -87,8 +89,6 @@ const Experience = () => {
       technologies: [
         "React",
         "Chart.js",
-        "JavaScript",
-        "AI Integration",
         "Responsive Design",
         "AI Insights",
         "Data Visualization",
@@ -104,11 +104,9 @@ const Experience = () => {
       description:
         "I redesigned UI wireframes to enhance user experience and streamline layout structures. I collaborated closely with developers and designers to implement a modern, consistent interface. My focus on testing cycles and bug resolution helped ensure smooth transitions from legacy systems to the updated platform.",
       technologies: [
-        "Figma",
-        "UI Design",
-        "Prototyping",
+        "Visily",
         "Responsive Design",
-        "User Testing",
+        "Unit Testing",
       ],
       type: "full-time",
     },
