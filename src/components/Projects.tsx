@@ -17,7 +17,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       role: "Full-Stack Developer",
-      technologies: ["React","Tailwind CSS"],
+      technologies: ["React", "Tailwind CSS"],
       liveUrl: "https://e-plantopia.netlify.app/",
       githubUrl: "https://github.com/vignesh-pp/plantopia",
     },
@@ -29,7 +29,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       role: "Frontend Developer",
-      technologies: ["React", "Node.js", "Firebase", "Tailwind CSS"],
+      technologies: ["React", "Tailwind CSS"],
       liveUrl: "https://dobuddy.netlify.app/",
       githubUrl: "https://github.com/vignesh-pp/TodoApp_REACT",
     },
@@ -45,17 +45,29 @@ const Projects = () => {
       liveUrl: "https://cityweather-now.netlify.app/",
       githubUrl: "https://github.com/vignesh-pp/weather_app",
     },
+    // {
+    //   id: 4,
+    //   title: "Social Media Analytics",
+    //   description:
+    //     "Comprehensive social media analytics platform with data visualization, performance tracking, and automated reporting features.",
+    //   image:
+    //     "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    //   role: "Frontend Developer",
+    //   technologies: ["React", "Python", "PostgreSQL", "Chart.js"],
+    //   liveUrl: "#",
+    //   githubUrl: "#",
+    // },
     {
       id: 4,
-      title: "Social Media Analytics",
+      title: "Multi-language code compiler",
       description:
-        "Comprehensive social media analytics platform with data visualization, performance tracking, and automated reporting features.",
+        "A versatile and intuitive code compiler that supports multiple programming languages, offering real-time syntax highlighting, intelligent code suggestions, error detection, and seamless file management. Built with React and integrated with AI features to enhance productivity for developers of all levels.",
       image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://static.vecteezy.com/system/resources/thumbnails/047/379/404/small/hands-typing-on-a-laptop-displaying-code-in-a-dimly-lit-cafe-with-a-warm-ambient-background-portraying-a-modern-tech-workspace-environment-free-photo.jpg",
       role: "Full-Stack Developer",
-      technologies: ["React", "Python", "PostgreSQL", "Chart.js"],
-      liveUrl: "#",
-      githubUrl: "#",
+      technologies: ["React", "Tailwind CSS"],
+      liveUrl: "https://codedoggo.netlify.app/",
+      githubUrl: "https://github.com/vignesh-pp/code-editor",
     },
   ];
 
