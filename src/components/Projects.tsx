@@ -30,8 +30,8 @@ const Projects = () => {
         "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       role: "Frontend Developer",
       technologies: ["React", "Tailwind CSS"],
-      liveUrl: "https://dobuddy.netlify.app/",
-      githubUrl: "https://github.com/vignesh-pp/TodoApp_REACT",
+      liveUrl: "https://doobuddy.netlify.app/",
+      githubUrl: "https://github.com/vignesh-pp/todo-app",
     },
     {
       id: 3,
