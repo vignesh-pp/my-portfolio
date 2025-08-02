@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Download, ChevronDown } from "lucide-react";
 import bg from "../images/my_bg.png";
-import resume from "../files/VIGNESH-P--RESUME.pdf";
+import resume from "../files/VIGNESH--P--RESUME.pdf";
 
 const Hero = () => {
   const scrollToAbout = () => {
