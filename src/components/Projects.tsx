@@ -69,6 +69,18 @@ const Projects = () => {
       liveUrl: "https://codedoggo.netlify.app/",
       githubUrl: "https://github.com/vignesh-pp/code-editor",
     },
+    {
+      id: 5,
+      title: "React Chart Builder",
+      description:
+        "A React Chart Builder is a web-based user interface (typically built with React) that allows users to dynamically create, customize, and preview charts (e.g., bar, line, pie, area) without writing any code",
+      image:
+        "https://media.istockphoto.com/id/1094530716/photo/business-executives-discussing-documents-and-ideas-at-meeting-in-a-workplace.jpg?s=612x612&w=0&k=20&c=zl9UAOPJ4Xv6oI5rGGxLk_u2Rq1gEIPmOEob9K9WZuQ=",
+      role: "Web Developer",
+      technologies: ["React", "Tailwind CSS"],
+      liveUrl: "https://react-chart-builder.netlify.app/",
+      githubUrl: "https://github.com/vignesh-pp/chart-builder",
+    },
   ];
 
   return (

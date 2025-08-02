@@ -46,7 +46,7 @@ const About = () => {
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6"></p>
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
                 <p>
-                  I'm Vignesh, a Software Engineer with 3 years of experience in
+                  I'm Vignesh, a Software Engineer with 3+ years of experience in
                   full-stack web development. I specialize in React.js,
                   JavaScript, HTML, and CSS, with backend expertise in Node.js
                   and MongoDB(Basics).
